@@ -1158,5 +1158,37 @@
       "source": "https://www.golisch-immobilien.de/images/original_791355_.jpg"
     }
   ],
-  "note": "partner/, referenzen/ und die Ergänzungen unter img/ stammen von der bestehenden Website (Assetliste 02.11.2026). Nutzungsrechte der Partnerlogos und Fremdfotos vor dem Livegang prüfen."
+  "note": "partner/, referenzen/ und die Ergänzungen unter img/ stammen von der bestehenden Website (Assetliste 02.11.2026). Nutzungsrechte der Partnerlogos und Fremdfotos vor dem Livegang prüfen. Die drei Social-Videos liegen als Webfassung vor. Die 4K-Originale überschreiten das 100-MB-Limit von GitHub und bleiben lokal unter brands/golisch/assets/.",
+  "videos": [
+    {
+      "path": "video/reh-oberhausen.mp4",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/video/reh-oberhausen.mp4",
+      "poster": "https://dxnielleadpages.github.io/golisch-assets/video/reh-oberhausen.jpg",
+      "bytes": 29569769,
+      "width": 1080,
+      "height": 1920,
+      "duration": "44.0",
+      "description": "Reihenhaus Oberhausen, Social-Video, 44 s. Webfassung 1080×1920 H.264 aus REH_Oberhausen.mp4 (Original 4K, 209 MB)."
+    },
+    {
+      "path": "video/etw-pfannenstiel.mp4",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/video/etw-pfannenstiel.mp4",
+      "poster": "https://dxnielleadpages.github.io/golisch-assets/video/etw-pfannenstiel.jpg",
+      "bytes": 20378649,
+      "width": 1080,
+      "height": 1920,
+      "duration": "42.5",
+      "description": "Wohnung Am Pfannenstiel, Augsburg, Social-Video, 43 s. Webfassung aus ETW_Pfannenstiel.mp4 (Original 4K, 131 MB)."
+    },
+    {
+      "path": "video/etw-hauptstrasse.mp4",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/video/etw-hauptstrasse.mp4",
+      "poster": "https://dxnielleadpages.github.io/golisch-assets/video/etw-hauptstrasse.jpg",
+      "bytes": 27451073,
+      "width": 1080,
+      "height": 1920,
+      "duration": "56.9",
+      "description": "Wohnung Hauptstraße 5B, Neusäß, Social-Video, 57 s. Webfassung aus ETW_Hauptstraße.mp4 (Original 4K, 170 MB)."
+    }
+  ]
 }

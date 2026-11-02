@@ -13,3 +13,9 @@ Ergänzung 02.11.2026 aus der bestehenden Website:
 - `referenzen/` vier Neubauten, Dachterrassenwohnung Augsburg (20), Doppelhaushälfte Augsburg (18), Haus Königsbrunn (21, mit Grundrissen).
 - `img/alternativen/` zwei ältere Porträts, `img/vermarktung/` ein Innenraum ohne Objektzuordnung.
 Die Bildrechte der Partner und externen Fotografen sind mit diesem Hosting nicht geklärt.
+
+Objektvideos (Webfassung, 1080×1920, H.264, faststart):
+- `video/reh-oberhausen.mp4` plus Poster `.jpg`
+- `video/etw-pfannenstiel.mp4` plus Poster `.jpg`
+- `video/etw-hauptstrasse.mp4` plus Poster `.jpg`
+Die 4K-Originale sind zu groß für GitHub und liegen weiter lokal in `brands/golisch/assets/`.
