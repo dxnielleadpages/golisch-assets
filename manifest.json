@@ -1,0 +1,236 @@
+{
+  "base_url": "https://dxnielleadpages.github.io/golisch-assets/",
+  "fallback_url": "https://raw.githubusercontent.com/dxnielleadpages/golisch-assets/main/",
+  "logos": [
+    {
+      "path": "logo/golisch-logo-negativ.svg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/logo/golisch-logo-negativ.svg",
+      "bytes": 8759,
+      "description": "Logo quer, negativ für dunkle Flächen · Footer-Karte"
+    },
+    {
+      "path": "logo/golisch-logo-positiv.svg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/logo/golisch-logo-positiv.svg",
+      "bytes": 8759,
+      "description": "Logo quer, positiv (Gold/Graphit) für helle Flächen · Nav"
+    },
+    {
+      "path": "logo/golisch-signet-negativ.svg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/logo/golisch-signet-negativ.svg",
+      "bytes": 1408,
+      "description": "Signet negativ · nur Fremdmedien, nicht auf der Website"
+    },
+    {
+      "path": "logo/golisch-signet-positiv.svg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/logo/golisch-signet-positiv.svg",
+      "bytes": 1408,
+      "description": "Signet positiv · Chat-Eingabe im Bento"
+    }
+  ],
+  "fonts": [
+    {
+      "path": "fonts/FamiljenGrotesk-Variable-latin-ext.woff2",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/fonts/FamiljenGrotesk-Variable-latin-ext.woff2",
+      "bytes": 15532,
+      "description": "Familjen Grotesk 400–700, Latin Extended (unicode-range)"
+    },
+    {
+      "path": "fonts/FamiljenGrotesk-Variable-latin.woff2",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/fonts/FamiljenGrotesk-Variable-latin.woff2",
+      "bytes": 18884,
+      "description": "Familjen Grotesk 400–700, Latin · Text und UI (preload)"
+    },
+    {
+      "path": "fonts/GeistSerif-Regular.woff2",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/fonts/GeistSerif-Regular.woff2",
+      "bytes": 40056,
+      "description": "Geist Serif 400 · Headlines, Zahlen, Preise"
+    },
+    {
+      "path": "fonts/LICENSE.txt",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/fonts/LICENSE.txt",
+      "bytes": 4568,
+      "description": "SIL OFL 1.1 für beide Schriften"
+    }
+  ],
+  "stages": [
+    {
+      "path": "stage/stage-bronze.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/stage/stage-bronze.jpg",
+      "bytes": 22395,
+      "description": "Bühne Bronze · nur die Chat-Kachel",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "path": "stage/stage-champagne.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/stage/stage-champagne.jpg",
+      "bytes": 20196,
+      "description": "Bühne Champagner · Grundriss, Ansprechpartner, Dropdown",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "path": "stage/stage-gold.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/stage/stage-gold.jpg",
+      "bytes": 29589,
+      "description": "Bühne Gold · Hero-Visual, Daten-Kacheln, Über-uns-Panes",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "images": [
+    {
+      "path": "img/augsburg-aerial.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/augsburg-aerial.jpg",
+      "bytes": 598867,
+      "description": "Luftbild Augsburg · Region, Unterseiten",
+      "width": 2200,
+      "height": 1254
+    },
+    {
+      "path": "img/detail-gold-tap.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/detail-gold-tap.jpg",
+      "bytes": 107947,
+      "description": "Detail goldene Armatur · Akzentbild Unterseiten",
+      "width": 1400,
+      "height": 1228
+    },
+    {
+      "path": "img/facade-entrance.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/facade-entrance.jpg",
+      "bytes": 202657,
+      "description": "Eingang einer Wohnanlage · Unterseiten",
+      "width": 1600,
+      "height": 1066
+    },
+    {
+      "path": "img/hellmut-golisch-mono.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/hellmut-golisch-mono.jpg",
+      "bytes": 101672,
+      "description": "Hellmut Golisch, Brustbild, Schwarzweiß · Avatar",
+      "width": 1100,
+      "height": 1254
+    },
+    {
+      "path": "img/hellmut-golisch-portrait-mono.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/hellmut-golisch-portrait-mono.jpg",
+      "bytes": 86131,
+      "description": "Hellmut Golisch, Querformat, Schwarzweiß · Über uns, Tab Geschichte",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "img/hellmut-golisch-portrait.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/hellmut-golisch-portrait.jpg",
+      "bytes": 81498,
+      "description": "Hellmut Golisch, Querformat, farbig",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "path": "img/hellmut-golisch.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/hellmut-golisch.jpg",
+      "bytes": 99491,
+      "description": "Hellmut Golisch, Brustbild, farbig",
+      "width": 1100,
+      "height": 1254
+    },
+    {
+      "path": "img/interior-dining.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/interior-dining.jpg",
+      "bytes": 199923,
+      "description": "Wohn- und Essbereich mit Terrassenblick · Über uns, Tab Arbeitsweise",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "path": "img/interior-living.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/interior-living.jpg",
+      "bytes": 204966,
+      "description": "Wohnbereich, Referenzobjekt · Unterseiten",
+      "width": 1800,
+      "height": 1199
+    },
+    {
+      "path": "img/interior-presentation.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/interior-presentation.jpg",
+      "bytes": 197684,
+      "description": "präsentierter Innenraum · Vermarktung",
+      "width": 1800,
+      "height": 1201
+    },
+    {
+      "path": "img/interior-staged.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/interior-staged.jpg",
+      "bytes": 223957,
+      "description": "gestagter Innenraum · Home-Staging",
+      "width": 1800,
+      "height": 1208
+    },
+    {
+      "path": "img/laszlo-hervay-mono.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/laszlo-hervay-mono.jpg",
+      "bytes": 145357,
+      "description": "Laszlo Hervay, Brustbild, Schwarzweiß · Avatar",
+      "width": 1100,
+      "height": 1287
+    },
+    {
+      "path": "img/laszlo-hervay.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/laszlo-hervay.jpg",
+      "bytes": 143476,
+      "description": "Laszlo Hervay, Brustbild, farbig",
+      "width": 1100,
+      "height": 1287
+    },
+    {
+      "path": "img/neusaess-aerial.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/neusaess-aerial.jpg",
+      "bytes": 414435,
+      "description": "Luftbild Neusäß · Region, Referenzen",
+      "width": 1800,
+      "height": 1080
+    },
+    {
+      "path": "img/susanne-golisch-hervay-mono.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/susanne-golisch-hervay-mono.jpg",
+      "bytes": 70797,
+      "description": "Susanne Golisch-Hervay, Brustbild, Schwarzweiß · Avatar",
+      "width": 853,
+      "height": 973
+    },
+    {
+      "path": "img/susanne-golisch-hervay.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/susanne-golisch-hervay.jpg",
+      "bytes": 65405,
+      "description": "Susanne Golisch-Hervay, Brustbild, farbig",
+      "width": 853,
+      "height": 973
+    },
+    {
+      "path": "img/team-duo-mono.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/team-duo-mono.jpg",
+      "bytes": 361011,
+      "description": "Team-Duo Schwarzweiß · Reserve",
+      "width": 1800,
+      "height": 1641
+    },
+    {
+      "path": "img/team-duo.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/team-duo.jpg",
+      "bytes": 365236,
+      "description": "Laszlo Hervay und Hellmut Golisch vor einer Wohnanlage · Hero",
+      "width": 1800,
+      "height": 1641
+    },
+    {
+      "path": "img/team-walk.jpg",
+      "url": "https://dxnielleadpages.github.io/golisch-assets/img/team-walk.jpg",
+      "bytes": 322128,
+      "description": "beide im Gehen durch eine Wohnanlage · Über uns, Tab Team",
+      "width": 1800,
+      "height": 1200
+    }
+  ]
+}
